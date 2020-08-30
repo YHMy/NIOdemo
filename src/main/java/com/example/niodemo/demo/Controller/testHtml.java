@@ -21,3 +21,6 @@ public void test04(){
 public void test03(){
 System.out.println("three")；}
 }
+public void test06(){
+System.out.println("six")；}
+}
