@@ -9,14 +9,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class testHtml {
     @RequestMapping("/hello")
     public   String login(){
+     String str=   "lknkvjhcfgnvblknm;";
         return "login";
+
     }
 
 
-    public void test05(){
-        System.out.println("test05");
-    }
-}
-public void test06(){
-System.out.println("six")；}
+
 }
