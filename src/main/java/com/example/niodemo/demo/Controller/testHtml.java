@@ -10,6 +10,7 @@ public class testHtml {
     @RequestMapping("/hello")
     public   String login(){
      String str=   "lknkvjhcfgnvblknm;";
+        String test02="ewrte5yuy";
         return "login";
 
     }
