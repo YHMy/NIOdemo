@@ -11,5 +11,8 @@ public class testHtml {
     public   String login(){
         return "login";
     }
+    public void test02(){
+        System.out.println("我在这也修改了数据");
+    }
 
 }
