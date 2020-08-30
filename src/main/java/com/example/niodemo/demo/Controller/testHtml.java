@@ -17,3 +17,6 @@ public class testHtml {
         System.out.println("test05");
     }
 }
+public void test06(){
+System.out.println("six")；}
+}
