@@ -12,12 +12,8 @@ public class testHtml {
         return "login";
     }
 
-public void test04(){
-        System.out.println("test04");
-}
-    public void test02(){
-        System.out.println("我在这也修改了数据");
+
+    public void test05(){
+        System.out.println("test05");
     }
-public void test03(){
-System.out.println("three")；}
 }
